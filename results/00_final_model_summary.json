@@ -1,0 +1,12 @@
+{
+  "primary_candidate": "NiO/TiO2",
+  "primary_score": 0.7965401100689901,
+  "best_CO_response_candidate": "NiO/ZnO",
+  "NiO_TiO2_CO_response_350C_100ppm": 310.40330447197647,
+  "NiO_TiO2_CO_ethanol_selectivity_350C_100ppm": 2.536015923541509,
+  "NiO_TiO2_CO_acetone_selectivity_350C_100ppm": 42.68137718034226,
+  "MonteCarlo_mean_CO_response": 344.8240937383229,
+  "MonteCarlo_mean_CO_ethanol_selectivity": 3.041646721758591,
+  "P_selectivity_gt_1": 0.931,
+  "P_selectivity_gt_2": 0.6462
+}

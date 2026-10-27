@@ -1,0 +1,4 @@
+Material,Type,Phi_eV,Eg_eV,chi_eV,eps_r,carrier_cm3,mobility_cm2Vs,Ec_eV,Ev_eV
+NiO,p,5.2,3.7,1.8,11.0,5e+17,1.0,-1.8,-5.5
+ZnO,n,4.6,3.3,4.3,8.5,1e+18,20.0,-4.3,-7.6
+TiO2,n,4.7,3.2,4.1,40.0,8e+17,1.0,-4.1,-7.3

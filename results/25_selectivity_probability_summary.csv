@@ -1,0 +1,5 @@
+Condition,Probability
+SC_CO_Ethanol > 1,0.931
+SC_CO_Ethanol > 1.5,0.795
+SC_CO_Ethanol > 2,0.6462
+SC_CO_Ethanol > 2.5,0.5088
